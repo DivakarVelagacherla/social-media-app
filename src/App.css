@@ -6,3 +6,26 @@
 .content {
   width: 100%;
 }
+
+.tag {
+  margin: 0px 5px;
+  padding: 2px;
+}
+
+.card {
+  margin: 20px 40px;
+}
+
+.heart {
+  color: red;
+}
+
+.reactions {
+  margin: 10px 0 0 0;
+}
+
+.create-post {
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 40px;
+}

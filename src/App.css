@@ -1,0 +1,8 @@
+.root-container {
+  display: flex;
+  height: 100vh;
+}
+
+.content {
+  width: 100%;
+}
